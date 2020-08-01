@@ -5,7 +5,9 @@
   Jane Jepkemboi
 ## PROJECT DESCRIPTION
    The project analyses data from a real estate leader, determine the factor that affect house prices. the project also predicts the price of house given the variables in the dataset using quantile model,ridge model,lasso model and elastic net model. 
-##INSTALLATION REQUIREMENTS
+   
+   
+## INSTALLATION REQUIREMENTS
 clone the repo by running;
 git clone https://github.com/jane95924.github
 navigate to the directory;
